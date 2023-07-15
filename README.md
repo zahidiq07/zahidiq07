@@ -10,10 +10,10 @@
   - Improving documentation}
 - 📫 How to reach me ...
 {
-- - Email: muhammadzah0001@gmail.com
-- LinkedIn: [Zahid Bhai](https://www.linkedin.com/in/zahid-bhai-a35729227/)
-- GitHub: (https://github.com/@zahidiq07)
-- My Website Name: (https://techsoftpedia.com)
+   - Email: muhammadzah0001@gmail.com
+   - LinkedIn: [Zahid Bhai](https://www.linkedin.com/in/zahid-bhai-a35729227/)
+   - GitHub: (https://github.com/@zahidiq07)
+   - My Website Name: (https://techsoftpedia.com)
 }
 <!---
 zahidiq07/zahidiq07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
